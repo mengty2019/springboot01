@@ -21,5 +21,6 @@ public class SpringBootMainTest {
     @Test
     void contextLoads() {
         System.out.println(person);
+        
     }
 }
